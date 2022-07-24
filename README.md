@@ -1,3 +1,3 @@
 # website
 
-my new website, if u (poor person) wants to skid that shit <$
+my new website, if u (poor person) want skid that shit <$
