@@ -20,6 +20,9 @@ body {
 }
 
 img.avatar {
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
   width: 100%; 
   border-radius: 50%;
   width: 150px;
@@ -76,7 +79,7 @@ ul li a {
 }
 
 .page-bg {
-  background-color: #FFFFFF;
+  background-color: #d9d9d9;
   background: url(https://cdn.wallpapersafari.com/68/40/ubwcDK.jpeg) top fixed;
   opacity: 0.2;
 }
@@ -97,3 +100,11 @@ ul li a {
   flex: 1;
 }
 
+
+.verified {
+  width: 26px;
+  height: 26px;
+  position: relative;
+  left: 4px;
+  top: 4px;
+}
