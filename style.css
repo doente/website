@@ -80,3 +80,20 @@ ul li a {
   background: url(https://cdn.wallpapersafari.com/68/40/ubwcDK.jpeg) top fixed;
   opacity: 0.2;
 }
+
+.icon-href {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-img {
+  position: absolute;
+  left: 16px;
+}
+
+.icon-text {
+  flex: 1;
+}
+
