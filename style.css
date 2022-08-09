@@ -94,6 +94,9 @@ ul li a {
 .icon-img {
   position: absolute;
   left: 16px;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 .icon-text {
