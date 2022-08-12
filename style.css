@@ -84,6 +84,21 @@ ul li a {
   opacity: 0.2;
 }
 
+
+.page-bg2 {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  height: 100vh;
+  width: 100vw
+}
+
+.page-bg2 {
+  background-color: #d9d9d9;
+  background: url(https://cdn.wallpapersafari.com/68/40/ubwcDK.jpeg) top fixed;
+  opacity: 0.2;
+}
+
 .icon-href {
   position: relative;
   display: flex;
